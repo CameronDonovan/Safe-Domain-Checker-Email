@@ -1,0 +1,64 @@
+{
+    "names": {
+        "@outlook.com": {
+            "name": "Outlook"
+        },
+        "@gmail.com": {
+            "name": "Gmail"
+        },
+        "@hotmail.com": {
+            "name": "Hotmail"
+        },
+        "@yahoo.com": {
+            "name": "Yahoo"
+        },
+        "@sky.com": {
+            "name": "Sky"
+        },
+        "@aol.com": {
+            "name": "AOL"
+        },
+        "@comcast.net": {
+            "name": "Comcast"
+        },
+        "@verizon.net": {
+            "name": "Verizon"
+        },
+        "@att.net": {
+            "name": "AT&T"
+        },
+        "@shaw.ca": {
+            "name": "Shaw"
+        },
+        "@bell.ca": {
+            "name": "Bell"
+        },
+        "@rogers.com": {
+            "name": "Rogers"
+        },
+        "@googlemail.com": {
+            "name": "Google"
+        },
+        "@msn.com": {
+            "name": "MSN"
+        },
+        "@live.com": {
+            "name": "Live"
+        },
+        "@sbcglobal.net": {
+            "name": "SBC"
+        },
+        "@icloud.com": {
+            "name": "iCloud"
+        },
+        "@mail.com": {
+            "name": "Mail"
+        },
+        "@ymail.com": {
+            "name": "Yahoo"
+        },
+        "@rocketmail.com": {
+            "name": "Rocketmail"
+        }
+    }
+}
